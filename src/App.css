@@ -27,3 +27,17 @@
   color: white;
   padding: 20px;
 }*/
+
+.meme span {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  margin-top: 50px;
+  font-size: 38px;
+  color: white;
+  text-shadow: 2px 2px 2px rgb(3, 3, 3);
+}
+
+.meme .segundoTexto {
+  margin-top: 400px;
+}
